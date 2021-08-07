@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 590 430">
+  <text font-family="Arial" font-size="12" opacity=".5" transform="translate(290 75)">
+    RST
+  </text>
+  <text font-family="Arial" font-size="12" transform="translate(290 95)">
+    3V
+  </text>
+  <text font-family="Arial" font-size="12" transform="translate(290 135)">
+    GND
+  </text>
+  <text font-family="Arial" font-size="12" opacity=".5" transform="translate(290 155)">
+    A0/14
+  </text>
+  <text font-family="Arial" font-size="12" transform="translate(290 175)">
+    A1/15
+  </text>
+  <text font-family="Arial" font-size="12" transform="translate(290 195)">
+    A2/16
+  </text>
+  <text font-family="Arial" font-size="12" transform="translate(290 215)">
+    A3/17
+  </text>
+  <text font-family="Arial" font-size="12" transform="translate(290 235)">
+    A4/18
+  </text>
+  <text font-family="Arial" font-size="12" transform="translate(290 255)">
+    A5/19
+  </text>
+  <text font-family="Arial" font-size="12" opacity=".5" transform="translate(290 275)">
+    SCK
+  </text>
+  <text font-family="Arial" font-size="12" opacity=".5" transform="translate(290 295)">
+    MOSI
+  </text>
+  <text font-family="Arial" font-size="12" opacity=".5" transform="translate(290 315)">
+    MISO
+  </text>
+  <text font-family="Arial" font-size="12" opacity=".5" transform="translate(290 335)">
+    RX/0
+  </text>
+  <text font-family="Arial" font-size="12" opacity=".5" transform="translate(290 355)">
+    TX/1
+  </text>
+  <text font-family="Arial" font-size="12" transform="translate(290 375)">
+    GND
+  </text>
+  <text font-family="Arial" font-size="12" opacity=".5" transform="translate(290 115)">
+    ARf
+  </text>
+  <text font-family="Arial" font-size="12" transform="translate(358 95)">
+    JST −
+  </text>
+  <text font-family="Arial" font-size="12" opacity=".5" transform="translate(367 155)">
+    BAT
+  </text>
+  <text font-family="Arial" font-size="12" opacity=".5" transform="translate(375 175)">
+    En
+  </text>
+  <text font-family="Arial" font-size="12" transform="translate(365 195)">
+    USB
+  </text>
+  <text font-family="Arial" font-size="12" opacity=".5" transform="translate(377 215)">
+    13
+  </text>
+  <text font-family="Arial" font-size="12" transform="translate(377 235)">
+    12
+  </text>
+  <text font-family="Arial" font-size="12" transform="translate(377 255)">
+    11
+  </text>
+  <text font-family="Arial" font-size="12" opacity=".5" transform="translate(377 275)">
+    10
+  </text>
+  <text font-family="Arial" font-size="12" opacity=".5" transform="translate(365 295)">
+    A7/9
+  </text>
+  <text font-family="Arial" font-size="12" transform="translate(184 297)">
+    100k
+  </text>
+  <text transform="translate(405 125)">
+    <tspan x="0" y="0" font-family="Arial" font-size="12">3.7V</tspan><tspan x="0" y="14" font-family="Arial" font-size="12">Li-Po</tspan><tspan x="0" y="29" font-family="Arial" font-size="12">or Li-Ion</tspan>
+  </text>
+  <text font-family="Arial" font-size="12" transform="translate(224 352)">
+    100k
+  </text>
+  <text font-family="Arial" font-size="12" transform="translate(166 95)">
+    VCC
+  </text>
+  <text font-family="Arial" font-size="12" transform="translate(164 115)">
+    GND
+  </text>
+  <text font-family="Arial" font-size="12" transform="translate(170 135)">
+    DIN
+  </text>
+  <text font-family="Arial" font-size="12" transform="translate(168 155)">
+    CLK
+  </text>
+  <text font-family="Arial" font-size="12" transform="translate(174 175)">
+    CS
+  </text>
+  <text font-family="Arial" font-size="12" transform="translate(174 195)">
+    DC
+  </text>
+  <text font-family="Arial" font-size="12" transform="translate(167 215)">
+    RST
+  </text>
+  <text font-family="Arial" font-size="12" transform="translate(158 235)">
+    BUSY
+  </text>
+  <text font-family="Arial" font-size="12" opacity=".5" transform="translate(383 315)">
+    6
+  </text>
+  <text font-family="Arial" font-size="12" opacity=".5" transform="translate(383 335)">
+    5
+  </text>
+  <text font-family="Arial" font-size="12" opacity=".5" transform="translate(367 355)">
+    SCL
+  </text>
+  <text font-family="Arial" font-size="12" opacity=".5" transform="translate(365 375)">
+    SDA
+  </text>
+  <text font-family="Arial" font-size="12" transform="translate(358 115)">
+    JST +
+  </text>
+  <path fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2" d="M284 61h110v320H284zM114 81h81v160h-81zM405 103h20M410 98h10"/>
+  <path fill="none" stroke="#000" stroke-miterlimit="10" d="M285 251h-25v13M395 91h20v7M415 103v8h-20"/>
+  <g>
+    <path fill="none" stroke="#000" stroke-miterlimit="10" d="M195 171h90M195 191h90M195 211h90M195 231h90M195 111h24c0-3 2-6 5-6s5 3 5 6h11c0-3 2-6 5-6s5 3 5 6h15v20h20M195 91h24c0-3 2-6 5-6s5 3 5 6h11c0-3 2-6 5-6s5 3 5 6h35"/>
+    <path fill="none" stroke="#000" stroke-miterlimit="10" d="M395 231h14c0-3 2-6 5-6s5 3 5 6h36V41H245v110h-50"/>
+    <path fill="none" stroke="#000" stroke-miterlimit="10" d="M395 251h14c0-3 2-6 5-6s5 3 5 6h56V21H225v110h-30"/>
+    <circle cx="259" cy="250.5" r="2.4"/>
+    <text font-family="Arial" font-size="12" transform="translate(112 255)">
+      E-Paper Display
+    </text>
+    <text font-family="Arial" font-size="12" transform="translate(280 395)">
+      Feather M0 Adalogger
+    </text>
+    <path fill="none" stroke="#000" stroke-miterlimit="10" d="M220 275v4l-6 3 10 5-10 5 10 5-10 5 10 5-4 3v101h195V191h-20"/>
+    <path fill="none" stroke="#000" stroke-miterlimit="10" d="M285 371h-25v-8l4-3-10-5 10-5-10-5 10-5-10-5 6-3v-68M259 251h-39v24"/>
+  </g>
+</svg>
